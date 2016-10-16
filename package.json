@@ -1,0 +1,22 @@
+{
+  "name": "cristobal",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "tets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristobal2323/react-clases.git"
+  },
+  "author": "cristobal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristobal2323/react-clases/issues"
+  },
+  "homepage": "https://github.com/cristobal2323/react-clases#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
+}
